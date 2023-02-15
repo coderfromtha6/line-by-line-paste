@@ -5,4 +5,6 @@ Simple python app to copy a new line from a block of text after each ctrl+v keys
 Install requirements with the following command:
 pip install -r requirements.txt
 
-Paste your block of text in input.txt and run the code. Easy!
+Paste your block of text in input.txt and run main.py
+
+Easy!
