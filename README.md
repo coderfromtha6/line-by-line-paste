@@ -3,7 +3,7 @@ Simple python app to copy a new line from a block of text after each ctrl+v keys
 
 An exercise in coding improvisation - I needed something so I just made it.
 
-Video Demonstration: https://youtu.be/YL3BRX1TVhA
+Video Demonstration: [https://youtu.be/YL3BRX1TVhA](https://youtu.be/OtqCuA9i1SM)
 
 
 Install requirements with the following command:
